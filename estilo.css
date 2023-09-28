@@ -1,0 +1,26 @@
+.largura{
+  width: 1200px;
+}
+.div-A{
+  background-color: #70b90330;
+  height: 800px;
+}
+.div-B{
+  background-color: #f3a8be;
+  height: 80px;
+}
+p{
+  color: rgb(243, 170, 106);
+  background-color: #f9c6c6;
+  font-size: 60px;
+  font-family:sans-serif;
+  font-weight: bold;
+}
+.div-D{
+  background-color: rgb(235, 141, 153);
+  height: 15vh;
+}
+.div-E{
+  background-color: rgb(255, 197, 208);
+  height: 80%;
+}
